@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(1_Understand_template_type_deduction 1_Understand_template_type_deduction.cpp)
 add_executable(2_Understand_auto_type_deduction 2_Understand_auto_type_deduction.cpp)
+add_executable(3_Understand_decltype 3_Understand_decltype.cpp)

@@ -25,6 +25,7 @@ int main()
     // auto func1 = someFunc; // func1's type is void (*)(int, double)
     // auto func2 = someFunc; // func2's type is void (&)(int, double)
 
+    // auto 与模版不同的是
     auto x1 = 27;
     auto x2(27);
 
