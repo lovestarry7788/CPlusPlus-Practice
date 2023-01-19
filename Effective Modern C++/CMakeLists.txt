@@ -15,3 +15,6 @@ add_executable(2_Understand_auto_type_deduction 2_Understand_auto_type_deduction
 add_executable(3_Understand_decltype 3_Understand_decltype.cpp)
 add_executable(5 5.cpp)
 add_executable(6 6.cpp)
+add_executable(7 7.cpp)
+add_executable(8 8.cpp)
+add_executable(9 9.cpp)
